@@ -1,0 +1,11 @@
+driver_id,first_name,last_name,email,latitude,longitude,snapshot_timestamp,hub_temp_c,hub_windspeed,macro_btc_cad,macro_eth_cad
+a815f838-8334-4021-a567-3908d9043b90,Logan,Martin,logan.martin@example.com,50.0255,-40.754,2026-04-28 15:57:24,2.1,7.1,104817.0,3125.45
+1d1206a6-e705-468c-ab56-6b15fd38b4e4,George,Lawson,george.lawson@example.com,-32.1505,145.3999,2026-04-28 15:57:24,2.1,7.1,104817.0,3125.45
+cd2fb8cf-208e-43e1-a64f-2e0dc4017baf,Isabel,Dueñas,isabel.duenas@example.com,-21.9096,-92.4089,2026-04-28 15:57:24,2.1,7.1,104817.0,3125.45
+31344a7d-f2b2-410e-94c0-8ce197e46902,Daniel,Manninen,daniel.manninen@example.com,-0.2103,-74.76,2026-04-28 15:57:24,2.1,7.1,104817.0,3125.45
+670f590d-1edb-48dc-9795-129327062946,Loretta,Carr,loretta.carr@example.com,-2.3188,-76.3231,2026-04-28 15:57:24,2.1,7.1,104817.0,3125.45
+852a8945-9940-4f86-a5d9-0b69da8130d9,Hernán,Archuleta,hernan.archuleta@example.com,64.9455,33.1069,2026-04-28 15:57:24,2.1,7.1,104817.0,3125.45
+8c5d072d-4319-4c3f-af27-381624a2d3cc,Aayush,Nand,aayush.nand@example.com,-66.9915,-21.7123,2026-04-28 15:57:24,2.1,7.1,104817.0,3125.45
+3f34af57-0e8c-45ee-a660-a8a641b9999d,Ray,Morris,ray.morris@example.com,56.7228,-30.3626,2026-04-28 15:57:24,2.1,7.1,104817.0,3125.45
+23d15f1c-632b-4fae-9c1b-ad98d837e721,Fatih,Elmastaşoğlu,fatih.elmastasoglu@example.com,-25.1978,61.7781,2026-04-28 15:57:24,2.1,7.1,104817.0,3125.45
+cee81093-3a21-448d-95ae-40a6ff9c3d25,Lyubomisl,Trocenko,lyubomisl.trocenko@example.com,28.219,97.0956,2026-04-28 15:57:24,2.1,7.1,104817.0,3125.45
