@@ -1,0 +1,48 @@
+name: Nexus Automated ETL Pipeline
+
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pandas
+
+    - name: Run Bronze Layer (Extraction)
+      run: |
+        python extract_drivers.py
+        python extract_weather.py
+        python extract_financials.py
+
+    - name: Run Silver Layer (Transformation)
+      run: |
+        python transform_drivers.py
+        python transform_weather.py
+        python transform_financials.py
+
+    - name: Run Gold Layer (Aggregation)
+      run: |
+        python build_gold_layer.py
+
+    - name: Commit and Push Data
+      run: |
+        git config --global user.name "GitHub Action Bot"
+        git config --global user.email "action@github.com"
+        git add bronze_layer/ silver_layer/ gold_layer/
+        git commit -m "Automated ETL Run: Update Data Layers" || exit 0
+        git push
