@@ -1,7 +1,7 @@
 {
     "latitude": 51.054447,
     "longitude": -114.07635,
-    "generationtime_ms": 0.15592575073242188,
+    "generationtime_ms": 0.17011165618896484,
     "utc_offset_seconds": 0,
     "timezone": "GMT",
     "timezone_abbreviation": "GMT",
@@ -16,12 +16,12 @@
         "weathercode": "wmo code"
     },
     "current_weather": {
-        "time": "2026-05-08T09:00",
+        "time": "2026-05-09T09:00",
         "interval": 900,
-        "temperature": 8.3,
-        "windspeed": 8.7,
-        "winddirection": 308,
+        "temperature": 10.0,
+        "windspeed": 7.2,
+        "winddirection": 96,
         "is_day": 0,
-        "weathercode": 0
+        "weathercode": 1
     }
 }
