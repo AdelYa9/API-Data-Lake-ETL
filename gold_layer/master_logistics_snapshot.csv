@@ -1,11 +1,11 @@
 driver_id,first_name,last_name,email,latitude,longitude,snapshot_timestamp,hub_temp_c,hub_windspeed,macro_btc_cad,macro_eth_cad
-964ec81b-be7f-4814-aa59-e9cd24238f32,Klaus-Michael,Karcher,klaus-michael.karcher@example.com,-50.556,-170.6379,2026-05-15 10:10:09,7.4,19.0,110728.0,3101.32
-1c6c8fbe-e1cf-46aa-9f6a-91adcc4ca093,Mark,Obrien,mark.obrien@example.com,15.9696,111.2037,2026-05-15 10:10:09,7.4,19.0,110728.0,3101.32
-40b4919a-0819-40e9-a507-822e002190f6,Nicholas,Ward,nicholas.ward@example.com,9.3177,-68.4393,2026-05-15 10:10:09,7.4,19.0,110728.0,3101.32
-2be82cbf-2e96-4818-96b0-6e8251ad8f43,Christy,Hall,christy.hall@example.com,-72.116,-2.6185,2026-05-15 10:10:09,7.4,19.0,110728.0,3101.32
-ab44af5b-d927-43f8-b54a-7d0095315698,Eléonore,Bertrand,eleonore.bertrand@example.com,-45.3355,61.9219,2026-05-15 10:10:09,7.4,19.0,110728.0,3101.32
-7e787cae-066c-43d4-8a57-701e84fcee2d,سارا,احمدی,sr.hmdy@example.com,-70.4807,-67.359,2026-05-15 10:10:09,7.4,19.0,110728.0,3101.32
-2d6d50f3-a729-4e84-b435-a92049c548e6,Willie,Martin,willie.martin@example.com,64.9685,-27.316,2026-05-15 10:10:09,7.4,19.0,110728.0,3101.32
-55e7cae4-3a83-4a7d-81d7-89970e735e32,William,Andersen,william.andersen@example.com,-81.1308,-170.4943,2026-05-15 10:10:09,7.4,19.0,110728.0,3101.32
-34f64d5c-8e7e-46b7-a06c-98005b9c9b01,Harrison,Hall,harrison.hall@example.com,-82.5011,64.0584,2026-05-15 10:10:09,7.4,19.0,110728.0,3101.32
-6f827933-be3a-40f2-8d44-dc0c9e2dd99a,Lorena,Caballero,lorena.caballero@example.com,52.7978,-176.7207,2026-05-15 10:10:09,7.4,19.0,110728.0,3101.32
+fe682ce1-d3c2-4a37-a3e9-0585e93f69c5,Wolfgang,Tiedemann,wolfgang.tiedemann@example.com,-52.9948,-162.4534,2026-05-16 09:17:11,6.6,17.3,107566.0,3004.67
+7d07cfd2-e48a-4ff5-83bb-9334bfd0de0e,Yolanda,Esquivel,yolanda.esquivel@example.com,-70.7588,-132.9648,2026-05-16 09:17:11,6.6,17.3,107566.0,3004.67
+d3ca6b6b-16e1-4010-9f96-a64231a26cf1,Arlo,Wood,arlo.wood@example.com,-14.3686,-124.9247,2026-05-16 09:17:11,6.6,17.3,107566.0,3004.67
+c01fc35e-a384-44f3-b44c-0c99ed7f1071,سهیل,نكو نظر,shyl.nkwnzr@example.com,-76.2483,-107.4552,2026-05-16 09:17:11,6.6,17.3,107566.0,3004.67
+796655f0-b124-4967-86c7-fb8510e550f0,Nihal,Koyuncu,nihal.koyuncu@example.com,-79.7679,-78.9497,2026-05-16 09:17:11,6.6,17.3,107566.0,3004.67
+95908b34-cb34-4263-aae7-66aae7c84dff,Lueli,Carvalho,lueli.carvalho@example.com,-60.9947,36.629,2026-05-16 09:17:11,6.6,17.3,107566.0,3004.67
+24a0c4ab-f56d-42ac-bef1-44d28e1d0ac1,Georgia,Kumar,georgia.kumar@example.com,-62.3324,109.912,2026-05-16 09:17:11,6.6,17.3,107566.0,3004.67
+5e1b9203-a722-4ec2-8d29-b870131f5432,مهرسا,پارسا,mhrs.prs@example.com,30.8889,-96.242,2026-05-16 09:17:11,6.6,17.3,107566.0,3004.67
+2c426b58-5a68-4ce6-abe8-5f3376dcf568,Logan,Addy,logan.addy@example.com,-17.1439,-103.0074,2026-05-16 09:17:11,6.6,17.3,107566.0,3004.67
+3a1d67b4-7bd2-49d8-bca4-9ee351f87f15,Dave,Peters,dave.peters@example.com,3.2929,-74.6621,2026-05-16 09:17:11,6.6,17.3,107566.0,3004.67
