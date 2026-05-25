@@ -1,11 +1,11 @@
 driver_id,first_name,last_name,email,latitude,longitude,snapshot_timestamp,hub_temp_c,hub_windspeed,macro_btc_cad,macro_eth_cad
-a896e8dd-b0c8-4b0b-b2a1-755d0fd9b27e,Martha,Matthews,martha.matthews@example.com,89.5572,49.933,2026-05-24 09:45:37,12.1,8.0,106329.0,2932.54
-cf57905a-fafe-4248-98fb-d7d7241cdb95,Jessica,Craig,jessica.craig@example.com,43.3023,104.7592,2026-05-24 09:45:37,12.1,8.0,106329.0,2932.54
-3f933e0b-8689-445c-abad-aee88bed71b7,Fridolin,Wunsch,fridolin.wunsch@example.com,16.153,59.2966,2026-05-24 09:45:37,12.1,8.0,106329.0,2932.54
-23354f4c-e66d-4b3c-bff6-4310d67af14b,Célian,Francois,celian.francois@example.com,-83.5111,126.8071,2026-05-24 09:45:37,12.1,8.0,106329.0,2932.54
-5967c9ed-8df6-4417-a525-87ae8b0b2bb2,Quinten,Herfst,quinten.herfst@example.com,28.0533,-11.2214,2026-05-24 09:45:37,12.1,8.0,106329.0,2932.54
-6e624ac1-9f64-436b-961d-df4f7462a556,Ilona,Hietala,ilona.hietala@example.com,87.2534,-113.4054,2026-05-24 09:45:37,12.1,8.0,106329.0,2932.54
-0b4cc5d1-5355-49d7-9e2f-51cd5f689fb4,Darin,Belsvik,darin.belsvik@example.com,86.9398,76.7894,2026-05-24 09:45:37,12.1,8.0,106329.0,2932.54
-3848e64f-04ad-484e-b0d5-f3e9af5551bc,Mira,Ivanović,mira.ivanovic@example.com,36.9242,-68.4175,2026-05-24 09:45:37,12.1,8.0,106329.0,2932.54
-e6269034-8d8e-4a6b-9978-b977dc45b3ff,Wanda,Dean,wanda.dean@example.com,80.012,-49.3097,2026-05-24 09:45:37,12.1,8.0,106329.0,2932.54
-b9f104b1-a8b4-4200-972f-3a7dbf257b81,Isobel,Bell,isobel.bell@example.com,-62.273,53.909,2026-05-24 09:45:37,12.1,8.0,106329.0,2932.54
+04bf6760-0cec-4e09-a14b-f725b0dfa4fb,Alisa,Karjala,alisa.karjala@example.com,-29.4461,82.781,2026-05-25 11:39:46,6.7,9.0,106941.0,2925.01
+8ce0cc0e-1722-48c4-895a-5bb0ab949f64,Christopher,Lucas,christopher.lucas@example.com,-42.209,106.5394,2026-05-25 11:39:46,6.7,9.0,106941.0,2925.01
+7c309aaf-fd66-44fd-af86-96a1c3572aab,Emma,Hamilton,emma.hamilton@example.com,40.4902,71.8975,2026-05-25 11:39:46,6.7,9.0,106941.0,2925.01
+3c1f473f-f5cf-4755-a311-cabba9893b7f,Emily,Wilson,emily.wilson@example.com,38.2426,27.7601,2026-05-25 11:39:46,6.7,9.0,106941.0,2925.01
+3d3e8162-6aa0-42cc-812c-875be2313025,Silke,Jensen,silke.jensen@example.com,8.9212,30.3152,2026-05-25 11:39:46,6.7,9.0,106941.0,2925.01
+88e68c9e-8ec4-4043-88b7-4aba739a43ab,Arthur,Foster,arthur.foster@example.com,-79.3188,-138.0681,2026-05-25 11:39:46,6.7,9.0,106941.0,2925.01
+10b250d1-ab20-48a1-8220-6f8e44b780c6,Jakob,Roux,jakob.roux@example.com,-63.7111,-118.7864,2026-05-25 11:39:46,6.7,9.0,106941.0,2925.01
+e67a5571-97b7-4fff-b949-e59e29cc4295,Madeleine,Bøhler,madeleine.bohler@example.com,-9.5832,-33.0945,2026-05-25 11:39:46,6.7,9.0,106941.0,2925.01
+83a57f28-2a59-409d-91cb-4ec867024d47,Ruben,Rentsch,ruben.rentsch@example.com,27.3591,38.1744,2026-05-25 11:39:46,6.7,9.0,106941.0,2925.01
+1b006cb3-7681-4530-b362-1113ff11abb4,Hilla,Pollari,hilla.pollari@example.com,64.3934,-169.6657,2026-05-25 11:39:46,6.7,9.0,106941.0,2925.01
