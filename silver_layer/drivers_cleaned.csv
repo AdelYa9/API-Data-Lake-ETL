@@ -1,11 +1,11 @@
 driver_id,first_name,last_name,email,latitude,longitude
-8d63f487-9b65-40fa-ae49-d2e5b17696b3,Lucien,Pierre,lucien.pierre@example.com,-15.1528,-12.0287
-1f83a3d2-bffa-4e46-8510-69fdab002fbb,Brian,Andrews,brian.andrews@example.com,48.9520,-63.0180
-7de5aedd-58c4-46eb-9007-8c744d2cd59a,Leah,Adams,leah.adams@example.com,2.3813,-154.2566
-579906e4-a5e6-4418-a60b-765224ca7245,Violeta,Garza,violeta.garza@example.com,36.2760,92.3637
-35352f06-7f7f-4ef1-b261-1d61af582b69,Pat,Douglas,pat.douglas@example.com,82.7989,-114.8411
-beff871c-5b08-47cc-9385-1a9d01818722,Kenan,Gönültaş,kenan.gonultas@example.com,86.8641,39.0735
-6654b58a-623b-4927-b503-1399c6d43742,Viviana,Ten Veen,viviana.tenveen@example.com,35.6092,-94.2304
-3776b9fb-f439-4d9b-8554-f61ac4e91da4,Aslak,Forberg,aslak.forberg@example.com,0.3149,-129.8220
-b73925f0-d3a2-4429-9158-8519ec090a9f,Nolhan,Morin,nolhan.morin@example.com,-79.8260,156.1124
-85e3aee9-da20-481b-a8dd-676015f1795b,Jules,Leroy,jules.leroy@example.com,-23.4333,30.1186
+27f19205-5e38-4fc1-a713-2173aba4734f,Dora,Obradović,dora.obradovic@example.com,57.4895,52.6641
+1d9907e2-a10f-4edf-a1ec-b6f27ee8722b,Nurdan,Gürmen,nurdan.gurmen@example.com,-80.8602,65.8434
+ae245c4e-f888-469c-acc9-665a216e7fe6,Thiago,Bertrand,thiago.bertrand@example.com,34.9793,109.3435
+014f0a6e-ea0b-4b27-ae0b-f9fd0d6c8506,Ana Luisa,Rolón,analuisa.rolon@example.com,-36.1685,141.6112
+ca8a2404-9a97-49fa-81c1-96eaaea965c6,Gustav,Pedersen,gustav.pedersen@example.com,12.1257,132.7229
+5c0fa82d-ce19-475c-83bb-faf8e3cc8db8,Jill,Gautier,jill.gautier@example.com,-69.3032,-43.0188
+417425b5-bfba-4b44-a68d-51cb7f4a6877,Shahistha,Gamskar,shahistha.gamskar@example.com,-31.8965,159.4983
+392339d7-e446-4824-ae75-b7dabecb567b,Zorica,Stošić,zorica.stosic@example.com,-41.9906,115.5832
+c01fe4e0-426f-409a-9496-cecf6e6957e6,Vedat,Akyüz,vedat.akyuz@example.com,58.1825,-113.1631
+98e8ab4c-9bc7-4fe4-9aa7-87ac50cc2f42,Riley,Evans,riley.evans@example.com,-35.3047,-44.2645
