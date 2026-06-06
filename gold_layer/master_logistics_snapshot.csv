@@ -1,11 +1,11 @@
 driver_id,first_name,last_name,email,latitude,longitude,snapshot_timestamp,hub_temp_c,hub_windspeed,macro_btc_cad,macro_eth_cad
-fbb77456-4fcf-4612-b0a8-851cde398b61,Trinidad,Peña,trinidad.pena@example.com,-32.5509,102.764,2026-06-05 11:00:59,8.4,5.0,86713.0,2324.4
-a4834d43-982a-4767-8042-ef2a9af90e7c,Aziz,Santos,aziz.santos@example.com,15.7718,173.2331,2026-06-05 11:00:59,8.4,5.0,86713.0,2324.4
-08be4628-0a71-4a9a-bd0b-3147176afb24,Oscar,Madsen,oscar.madsen@example.com,-26.0099,-126.3123,2026-06-05 11:00:59,8.4,5.0,86713.0,2324.4
-36cb5232-b70b-4726-aac6-5f69c9c00a17,Joel,Peltonen,joel.peltonen@example.com,81.4362,-73.4837,2026-06-05 11:00:59,8.4,5.0,86713.0,2324.4
-b27bf459-cf28-45d0-a375-15be302fed43,Elke,Korte,elke.korte@example.com,-4.7836,-69.9432,2026-06-05 11:00:59,8.4,5.0,86713.0,2324.4
-3d567743-0427-478e-9780-ef67b43073f4,Lewis,Martin,lewis.martin@example.com,4.4761,-102.7552,2026-06-05 11:00:59,8.4,5.0,86713.0,2324.4
-1da7366f-e6b0-431f-a554-8075c36bd487,بیتا,کوتی,byt.khwty@example.com,-6.1625,-49.116,2026-06-05 11:00:59,8.4,5.0,86713.0,2324.4
-b607df07-fc1a-484c-bde8-dff8eb2d6965,Agnès,Lopez,agnes.lopez@example.com,11.166,36.207,2026-06-05 11:00:59,8.4,5.0,86713.0,2324.4
-79b08533-6bc3-41ee-9144-459f4e49df8a,Kyle,Rodriquez,kyle.rodriquez@example.com,-89.7835,-32.2363,2026-06-05 11:00:59,8.4,5.0,86713.0,2324.4
-addc02c2-038b-404b-8069-304355c29793,Fritz,Petit,fritz.petit@example.com,-11.2398,-78.8221,2026-06-05 11:00:59,8.4,5.0,86713.0,2324.4
+86a3cbdc-b065-48ee-9174-93e62312c762,Leo,Lemans,leo.lemans@example.com,38.0417,-147.2262,2026-06-06 09:50:26,7.2,5.5,84904.0,2187.61
+57473f0c-a6f8-44f1-9949-05e4563bf3f4,Adhira,Nair,adhira.nair@example.com,-71.0167,79.5131,2026-06-06 09:50:26,7.2,5.5,84904.0,2187.61
+099b9b97-e541-4f3f-b281-a016aeaf228e,Josefine,Sørensen,josefine.sorensen@example.com,8.6589,38.0396,2026-06-06 09:50:26,7.2,5.5,84904.0,2187.61
+97464a73-e225-41b0-afda-3d804a6e3373,Senne,Bolhuis,senne.bolhuis@example.com,61.7861,-156.285,2026-06-06 09:50:26,7.2,5.5,84904.0,2187.61
+47d8788e-382c-4986-9a30-a6e90d734673,Ava,Butler,ava.butler@example.com,-59.3195,-17.7679,2026-06-06 09:50:26,7.2,5.5,84904.0,2187.61
+c1ea6d19-6467-45f0-b8d8-663472aea586,Maryam,Låstad,maryam.lastad@example.com,-87.0502,142.4376,2026-06-06 09:50:26,7.2,5.5,84904.0,2187.61
+14330b7f-8b05-41ce-9bd1-862802838c5a,Ryder,Pelletier,ryder.pelletier@example.com,10.9567,128.1513,2026-06-06 09:50:26,7.2,5.5,84904.0,2187.61
+32e6f21f-e5b0-4053-aa77-2e46bbdfae61,Zachary,Li,zachary.li@example.com,3.1962,157.56,2026-06-06 09:50:26,7.2,5.5,84904.0,2187.61
+878aabee-1861-483a-9924-2405ac1354d3,Karla,Benavídez,karla.benavidez@example.com,-60.1924,94.1589,2026-06-06 09:50:26,7.2,5.5,84904.0,2187.61
+a93157fc-da39-40d5-9573-665d16f4c4d1,Ognjen,Todorović,ognjen.todorovic@example.com,73.5112,135.2512,2026-06-06 09:50:26,7.2,5.5,84904.0,2187.61
